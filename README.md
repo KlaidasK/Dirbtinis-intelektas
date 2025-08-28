@@ -76,6 +76,10 @@ def sigmoid(x):
 
 - Stulpelinė diagrama: testavimo tikslumas pagal skirtingus mokymosi greičius
 
+## Rezultatai
+
+[Laboratory Report PDF](LD2_Klaidas_Kubilius.pdf)
+
 ## Naudojimo Instrukcijos
 
 1. Įdiekite reikalavimus:
