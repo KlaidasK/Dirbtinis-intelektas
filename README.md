@@ -78,7 +78,7 @@ def sigmoid(x):
 
 ## Rezultatai
 
-[Laboratory Report PDF](LD2_Klaidas_Kubilius.pdf)
+[Ataskaita](LD2_Klaidas_Kubilius.pdf)
 
 ## Naudojimo Instrukcijos
 
